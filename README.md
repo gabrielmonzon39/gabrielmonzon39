@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmonzon39&theme=react&show_icons=true)
 <!--
 **gabrielmonzon39/gabrielmonzon39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
