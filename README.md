@@ -1,9 +1,5 @@
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmonzon39&theme=dark">
-<img src="https://github-readme-stats.vercel.app/api?username=gabrielmonzon39&theme=dark&show_icons=true&line_height=40&count_private=true">
- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gabrielmonzon39&theme=dark" />
-</p>
+[![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmonzon39)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 
 **gabrielmonzon39/gabrielmonzon39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
